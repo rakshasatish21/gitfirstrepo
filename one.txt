@@ -1,0 +1,10 @@
+ Volume in drive C is DANGER ZONE
+ Volume Serial Number is 04B0-8CD3
+
+ Directory of C:\Users\rahul\Desktop\New folder (2)
+
+09-01-2019  11:30    <DIR>          .
+09-01-2019  11:30    <DIR>          ..
+09-01-2019  11:30                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  17,275,645,952 bytes free
